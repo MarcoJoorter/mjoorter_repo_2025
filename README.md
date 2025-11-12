@@ -5,3 +5,7 @@ This repository is being used to learn all about GitHub.
 I am using a crash course video from freeCodeCamp.org on YouTube.
 
 Update: added an extra line.
+
+### Commit some extra text via VS Code
+This text and header was added after cloning the repository on a Windows Device.
+
